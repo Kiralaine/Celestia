@@ -1,5 +1,5 @@
 ﻿
-namespace Celestia.DataAcess.Entities
+namespace Celestia.DataAccess.Entities
 {
     public  class UserEntity
     {

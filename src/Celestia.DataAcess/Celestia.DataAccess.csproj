@@ -12,8 +12,4 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="8.0.17" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Celestia.Repository\Celestia.Repository.csproj" />
-  </ItemGroup>
-
 </Project>

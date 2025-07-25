@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celestia.API", "Celestia.AP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celestia.BLL", "..\Celestia.BLL\Celestia.BLL.csproj", "{CF54FCD6-5F70-4A61-B996-A6F93EADA9FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celestia.DataAcess", "..\Celestia.DataAcess\Celestia.DataAcess.csproj", "{79D1CA53-5AAC-4E54-8966-2B1C21410CA9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celestia.DataAccess", "..\Celestia.DataAcess\Celestia.DataAccess.csproj", "{79D1CA53-5AAC-4E54-8966-2B1C21410CA9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celestia.Repository", "..\Celestia.Repository\Celestia.Repository.csproj", "{DDA4C628-5839-4A36-A069-8A8144E57A13}"
 EndProject
