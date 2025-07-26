@@ -1,6 +1,6 @@
 ﻿using Celestia.DataAccess.Entities;
 
-namespace SkillSystem.Repository.Repositories;
+namespace Celestia.Repository.Repositories;
 
 public interface IUserRepository
 {

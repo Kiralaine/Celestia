@@ -3,7 +3,7 @@ using Celestia.DataAccess.Entities;
 using Celestia.DataAcess;
 using Microsoft.EntityFrameworkCore;
 
-namespace SkillSystem.Repository.Repositories;
+namespace Celestia.Repository.Repositories;
 public class UserRepository : IUserRepository
 {
     private readonly MainContext MainContext;
